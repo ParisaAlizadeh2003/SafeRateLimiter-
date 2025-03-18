@@ -1,4 +1,3 @@
-```markdown
 # RateLimiterPy
 
 A Python project that implements a **Rate Limiter** decorator to restrict function calls within a specified time window. This helps prevent excessive calls and protects system resources.
